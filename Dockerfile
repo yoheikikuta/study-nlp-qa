@@ -14,7 +14,10 @@ RUN pip install \
     tensorflow==1.4.0 \
     regex \
     nltk \
-    tqdm
+    tqdm \
+    jupyter \
+    scikit-learn \
+    scipy
 
 WORKDIR /work
 
