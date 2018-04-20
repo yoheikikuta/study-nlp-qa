@@ -1,4 +1,9 @@
 .ipynb_checkpoints
 corpora
+corpora-jp-en
 logdir
+logdir-jp-en
 preprocessed
+preprocessed-jp-en
+results
+results-jp-en
