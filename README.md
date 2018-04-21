@@ -9,3 +9,7 @@ This is a repository for studies of a simple question-answering problem and the 
 - transformer-jp-en.ipynb  
   This notebook is for training a ja-en tranlation model using the transformer.  
   Dataset is taken from http://www.phontron.com/kftt/ .
+
+The following figure is training progresses (these are the figures for only 5 epochs, it requires more and more trainings):
+
+![Imgur](https://i.imgur.com/rg0cxka.png)
