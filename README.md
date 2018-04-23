@@ -10,6 +10,10 @@ This is a repository for studies of a simple question-answering problem and the 
   This notebook is for training a ja-en tranlation model using the transformer.  
   Dataset is taken from http://www.phontron.com/kftt/ .
 
-The following figure is training progresses (these are the figures for only 5 epochs, it requires more and more trainings):
+The following figures show training progresses:
 
-![Imgur](https://i.imgur.com/rg0cxka.png)
+- acc
+
+![Imgur](https://imgur.com/h9iXY86.png)
+
+![Imgur](https://imgur.com/V5q0ESo.png)
